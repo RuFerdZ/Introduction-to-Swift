@@ -1,5 +1,9 @@
 import Foundation
 
+
+// Swift is a strongly typed language -> which means datatype dependant
+// Swift is a strongly typed language -> which means datatype dependant
+
 // variables
 var str = "Hello World"
 var x = 4
